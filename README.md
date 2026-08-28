@@ -26,7 +26,14 @@
 
 **ML / Data**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
+![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=plastic&logo=ollama&logoColor=white) 
+![RAG](https://img.shields.io/badge/RAG-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23FF6600.svg?style=plastic&logo=plotly&logoColor=white) 
+![CNN](https://img.shields.io/badge/CNN-%23D00000.svg?style=plastic&logo=tensorflow&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kuldeepyadav001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
